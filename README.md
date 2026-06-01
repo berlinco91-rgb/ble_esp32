@@ -11,3 +11,6 @@ The specific microcontroller used here is the DOIT ESP32 Devkit V1.
 <p>
   <img src="71kEWzr29bL._AC_SL1001_.jpg" alt="esp32_layout" width="100%"/>
 </p>
+
+## Project I
+Controlling a Servo motor using ESP32 BLE Feature
